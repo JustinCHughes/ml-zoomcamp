@@ -1,0 +1,26 @@
+- Types of results (regression, classification(multi / binary), ranking)
+- CRISPR DM
+	- Methodology for machine learning
+	1. Business Understanding
+		- Understand what the business really wants
+		- Determine a goal
+		- Determine a measurable success metric
+	2. Data Understanding
+		- Is the data reliable
+		- How do we track it
+		- Is it tracked correctly
+		- Is it enough data
+	3. Data Preparation
+		- clean / transform data into something usable (ETL)
+	4. Modeling
+		- Determine correct model to use
+		1. Logistic Regression
+		2. Decision Tree
+		3. Neural Network
+		4. Many Others
+	5. Evaluation
+		- Determine success of the project
+		- Go back and adjust
+	6. Deployment
+		- Give model to users
+	7. Review / iterate
